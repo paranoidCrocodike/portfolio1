@@ -1,21 +1,21 @@
 {
   "front": {
-    "title": "Hello! I'm Croc!",
-    "subtitle": "A web deveoper for hire!"
+    "title": "你好！我是何承恩！",
+    "subtitle": "正在尋找網頁開發的工作！"
   },
   "header": {
     "buttons": [
       {
         "className": "education",
-        "children": "Education"
+        "children": "學歷"
       },
       {
         "className": "projects",
-        "children": "Projects"
+        "children": "作品"
       },
       {
         "className": "contacts",
-        "children": "Contacts"
+        "children": "聯絡"
       }
     ]
   },
@@ -23,27 +23,27 @@
     "title": "Education",
     "cards": [
       {
-        "title": "Lorem Ipsum dolor",
+        "title": "南開科大",
         "icon": "faGraduationCap",
         "date": "2015-2020",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolor, vero architecto."
+        "description": "電機與資訊系副學士"
       },
       {
-        "title": "Lorem Ipsum dolor",
+        "title": "應屆畢業生",
         "icon": "faTrophy",
-        "date": "2020",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolor, vero architecto."
+        "date": "2021",
+        "description": "今年畢業，正在尋找工作"
       },
       {
-        "title": "Lorem Ipsum dolor",
+        "title": "網頁開發經驗",
         "icon": "faKeyboard",
         "date": "2021-",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolor, vero architecto."
+        "description": "此網站為我能力的最佳表現"
       }
     ]
   },
   "projects": {
-    "title": "Projects",
+    "title": "作品",
     "cards": [
       {
         "name": "Portfolio1",
@@ -55,26 +55,26 @@
     ]
   },
   "contactData": {
-    "title": "Contacts",
+    "title": "聯絡",
     "contactInfo": [
       {
         "className": "name",
-        "value": "John Doe",
+        "value": "何承恩",
         "icon": "faSignature"
       },
       {
         "className": "phoneNumber",
-        "value": "+886 123 456 789",
+        "value": "+886 956 995 892",
         "icon": "faPhone"
       },
       {
         "className": "email",
-        "value": "example@domain.com",
+        "value": "cutefishthatgrewlegs@gmail.com",
         "icon": "faEnvelope"
       },
       {
         "className": "placeOfResidence",
-        "value": "Madeup Blvd. 1234, San Francisco 94016, California US",
+        "value": "台中市西屯區洛陽南街2-1號",
         "icon": "faHouse"
       }
     ]
