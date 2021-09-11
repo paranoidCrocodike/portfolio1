@@ -1,5 +1,5 @@
 # 你好！我是何承恩！這是我作品集網站的原始碼頁面
-# 作品集的實際樣本網址：https://paranoidcrocodile.github.io/portfolio1/dist/index.html.
+# 作品集的實際樣本網址：https://paranoidcrocodile.github.io/portfolio1/dist/.
 
 ## setup
 run `npm install` to install dependencies, `npm install --only=dev` to install dev dependencies.
