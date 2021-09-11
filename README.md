@@ -1,6 +1,5 @@
-# portfolio
-你好！我是何承恩！這是我的作品集網站
-My first portfolio, to see a live example, go to: https://paranoidcrocodile.github.io/portfolio1/dist/index.html.
+# 你好！我是何承恩！這是我作品集網站的原始碼頁面
+# 作品集的實際樣本網址：https://paranoidcrocodile.github.io/portfolio1/dist/index.html.
 
 ## setup
 run `npm install` to install dependencies, `npm install --only=dev` to install dev dependencies.
